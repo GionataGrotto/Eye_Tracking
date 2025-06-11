@@ -1,1 +1,1 @@
-Checks models
+We developed a socially impactful university project that enables computer mouse control through eye movement, using only a standard webcam. The goal of our idea was to explore digital accessibility for people with motor disabilities, offering a simple, low-cost, and non-invasive solution based on computer vision techniques.
